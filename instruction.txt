@@ -1,0 +1,2 @@
+run exe file to open specific port for automation
+mvn clean test -Dtest=AppTest or run by Jenkins
